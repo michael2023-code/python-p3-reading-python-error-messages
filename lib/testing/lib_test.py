@@ -48,4 +48,4 @@ class TestAssertionError:
         evaluates two equal values
         '''
         
-        runpy.run_path('lib/an_assertion_error.py')
+        runpy.run_path("lib/an_assertion_error.py")
